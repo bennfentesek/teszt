@@ -1,0 +1,2797 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>A Közösség</title>
+    <link>https://blackbird-pomegranate-h6g9.squarespace.com</link>
+    <pubDate>Sun, 12 May 2024 12:35:19 +0000</pubDate>
+    <description />
+    <language>en-US</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>-1293763649</wp:author_id>
+      <wp:author_login>bennfentesekhu@gmail.com</wp:author_login>
+      <wp:author_email>bennfentesekhu@gmail.com</wp:author_email>
+      <wp:author_display_name><![CDATA[Fentesek Benn]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[Fentesek]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[Benn]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[null - null]]></wp:cat_name>
+      <wp:category_nicename>null-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <link>/home</link>
+      <title>Home</title>
+      <pubDate>Sun, 12 May 2024 12:38:13 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" id="sections" data-page-sections="6640b7b9930cf2252aa3b1f3">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="black-bold"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--large
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--bottom
+    
+       has-background
+    
+    
+    black-bold'
+  
+  data-section-id="6640b7b9930cf2252aa3b1f7"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;6640b7b9930cf2252aa3b1d9&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1596048730655,
+    &quot;updatedOn&quot;: 1654595045269,
+    &quot;starred&quot;: false,
+    &quot;passthrough&quot;: false,
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1596048730655,
+    &quot;authorId&quot;: &quot;6640b7854038b96fcc1b2771&quot;,
+    &quot;systemDataId&quot;: &quot;1649097839262-CX82WOBWKQ4BHQ7VSA5E&quot;,
+    &quot;systemDataVariants&quot;: &quot;1500x1001,100w,300w,500w,750w,1000w,1500w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+    &quot;filename&quot;: &quot;drive-banner.jpg&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.46853146853146854,
+      &quot;y&quot;: 0.35069927210272345,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;fed04a&quot;,
+      &quot;topRightAverage&quot;: &quot;a7bf98&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;fac362&quot;,
+      &quot;bottomRightAverage&quot;: &quot;b8b69b&quot;,
+      &quot;centerAverage&quot;: &quot;5c4c48&quot;,
+      &quot;suggestedBgColor&quot;: &quot;feca42&quot;
+    },
+    &quot;urlId&quot;: &quot;ob795hhhs2pdt9uogwuil07t4fyb8y-9c5bs-seyf3&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;6640b7854038b96fcc1b2771&quot;,
+      &quot;displayName&quot;: &quot;Fentesek Benn&quot;,
+      &quot;firstName&quot;: &quot;Fentesek&quot;,
+      &quot;lastName&quot;: &quot;Benn&quot;,
+      &quot;avatarUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/6640b7854038b96fcc1b2771/8c2e136c-4902-4a8f-b4f8-1175e29d709a/thirdPartyMemberAvatar-6640b7854038b96fcc1b2771-e88f3247-9037-4c6a-91ea-8680c7aecb7e?format=300w&quot;,
+      &quot;bio&quot;: &quot;&quot;,
+      &quot;avatarAssetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/6640b7854038b96fcc1b2771/8c2e136c-4902-4a8f-b4f8-1175e29d709a/thirdPartyMemberAvatar-6640b7854038b96fcc1b2771-e88f3247-9037-4c6a-91ea-8680c7aecb7e?format=300w&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839262-CX82WOBWKQ4BHQ7VSA5E/drive-banner.jpg&quot;,
+    &quot;contentType&quot;: &quot;image/jpeg&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;originalSize&quot;: &quot;1500x1001&quot;,
+    &quot;recordTypeLabel&quot;: &quot;image&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--large&quot;,
+  &quot;customSectionHeight&quot;: 85,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--bottom&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;black-bold&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;divider&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border"
+    
+  >
+    <div class="section-background">
+    
+      
+        
+        
+          
+
+
+
+
+
+  
+
+
+
+<img alt="" src="https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839262-CX82WOBWKQ4BHQ7VSA5E/drive-banner.jpg" data-image="https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839262-CX82WOBWKQ4BHQ7VSA5E/drive-banner.jpg" data-image-dimensions="1500x1001" data-image-focal-point="0.46853146853146854,0.35069927210272345" alt="drive-banner.jpg" data-load="false" elementtiming="nbf-background" src="https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839262-CX82WOBWKQ4BHQ7VSA5E/drive-banner.jpg" width="1500" height="1001" alt="" sizes="(max-width: 799px) 200vw, 100vw" style="display:block;object-position: 46.85314685314685% 35.06992721027235%" srcset="https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839262-CX82WOBWKQ4BHQ7VSA5E/drive-banner.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839262-CX82WOBWKQ4BHQ7VSA5E/drive-banner.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839262-CX82WOBWKQ4BHQ7VSA5E/drive-banner.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839262-CX82WOBWKQ4BHQ7VSA5E/drive-banner.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839262-CX82WOBWKQ4BHQ7VSA5E/drive-banner.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839262-CX82WOBWKQ4BHQ7VSA5E/drive-banner.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839262-CX82WOBWKQ4BHQ7VSA5E/drive-banner.jpg?format=2500w 2500w" fetchpriority="high" loading="eager" decoding="async" data-loader="sqs">
+
+
+
+
+        
+        <div class="section-background-overlay" style="opacity: 0.15;"></div>
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-6640b7b9930cf2252aa3b1f6 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(7,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-6640b7b9930cf2252aa3b1f6 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-6640b7b9930cf2252aa3b1f6 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(8,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-7b8d2aaa5adb77a4f5e6 {
+    grid-area: 1/2/5/9;
+    z-index: 0;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-7b8d2aaa5adb77a4f5e6 .sqs-block {
+    justify-content: flex-end;
+  }
+
+  .fe-block-7b8d2aaa5adb77a4f5e6 .sqs-block-alignment-wrapper {
+    align-items: flex-end;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-7b8d2aaa5adb77a4f5e6 {
+      grid-area: 1/2/9/12;
+      z-index: 0;
+
+      
+    }
+
+    .fe-block-7b8d2aaa5adb77a4f5e6 .sqs-block {
+      justify-content: flex-end;
+    }
+
+    .fe-block-7b8d2aaa5adb77a4f5e6 .sqs-block-alignment-wrapper {
+      align-items: flex-end;
+    }
+  }
+
+  .fe-block-7ccbbea9c3dbb1914a91 {
+    grid-area: 5/2/7/6;
+    z-index: 1;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-7ccbbea9c3dbb1914a91 .sqs-block {
+    justify-content: flex-end;
+  }
+
+  .fe-block-7ccbbea9c3dbb1914a91 .sqs-block-alignment-wrapper {
+    align-items: flex-end;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-7ccbbea9c3dbb1914a91 {
+      grid-area: 4/21/6/26;
+      z-index: 1;
+
+      
+    }
+
+    .fe-block-7ccbbea9c3dbb1914a91 .sqs-block {
+      justify-content: flex-end;
+    }
+
+    .fe-block-7ccbbea9c3dbb1914a91 .sqs-block-alignment-wrapper {
+      align-items: flex-end;
+    }
+  }
+
+</style><div class="fluid-engine fe-6640b7b9930cf2252aa3b1f6"><div class="fe-block fe-block-7b8d2aaa5adb77a4f5e6"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-7b8d2aaa5adb77a4f5e6"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h1 style="white-space:pre-wrap;">Legyél Tagja Egy Közösségnek.</h1>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-7ccbbea9c3dbb1914a91"><div class="sqs-block button-block sqs-block-button sqs-stretched" data-block-type="53" id="block-7ccbbea9c3dbb1914a91"><div class="sqs-block-content">
+
+<div
+  class="sqs-block-button-container sqs-block-button-container--right"
+  data-animation-role="button"
+  data-alignment="right"
+  data-button-size="small"
+  data-button-type="tertiary"
+>
+  <a
+    href="/pricing"
+    class="sqs-block-button-element--small sqs-button-element--tertiary sqs-block-button-element"
+    
+  >
+    Csatlakozom a Közösséghez
+  </a>
+</div>
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="black"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    black'
+  
+  data-section-id="6640b7b9930cf2252aa3b1fa"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;customSectionHeight&quot;: 85,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;black&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;divider&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border"
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-6640b7b9930cf2252aa3b1f9 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(12,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-6640b7b9930cf2252aa3b1f9 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-6640b7b9930cf2252aa3b1f9 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(6,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-da605d50a3b6cdf41eed {
+    grid-area: 1/2/9/10;
+    z-index: 0;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-da605d50a3b6cdf41eed .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-da605d50a3b6cdf41eed .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-da605d50a3b6cdf41eed {
+      grid-area: 1/2/7/16;
+      z-index: 0;
+
+      
+    }
+
+    .fe-block-da605d50a3b6cdf41eed .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-da605d50a3b6cdf41eed .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-ec00114e210b9b078d21 {
+    grid-area: 9/2/13/10;
+    z-index: 1;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-ec00114e210b9b078d21 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-ec00114e210b9b078d21 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-ec00114e210b9b078d21 {
+      grid-area: 1/17/5/26;
+      z-index: 1;
+
+      
+    }
+
+    .fe-block-ec00114e210b9b078d21 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-ec00114e210b9b078d21 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-6640b7b9930cf2252aa3b1f9"><div class="fe-block fe-block-da605d50a3b6cdf41eed"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-da605d50a3b6cdf41eed"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h2 style="white-space:pre-wrap;">WE’RE A HIGH QUALITY GYM DEDICATED TO AFFORDABLE HEALTH AND WELLNESS.  </h2>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-ec00114e210b9b078d21"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-ec00114e210b9b078d21"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="sqsrte-large" style="white-space:pre-wrap;">Klipsan Fitness is a gym where you come as you are, and do your best. Our membership offers both digital and in-club programming aimed at helping you achieve your fitness goals. Discover all of our club’s offerings below. </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="black"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    black'
+  
+  data-section-id="6640b7b9930cf2252aa3b1fd"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+  &quot;customSectionHeight&quot;: 85,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;black&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;divider&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border"
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-6640b7b9930cf2252aa3b1fc {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(12,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-6640b7b9930cf2252aa3b1fc {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-6640b7b9930cf2252aa3b1fc {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(21,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-d5c8b1cb0112f1996cec {
+    grid-area: 3/2/13/7;
+    z-index: 0;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-d5c8b1cb0112f1996cec .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-d5c8b1cb0112f1996cec .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-d5c8b1cb0112f1996cec {
+      grid-area: 4/7/20/15;
+      z-index: 0;
+
+      
+    }
+
+    .fe-block-d5c8b1cb0112f1996cec .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-d5c8b1cb0112f1996cec .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-33a1f898c2388e887ffe {
+    grid-area: 1/6/11/10;
+    z-index: 1;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-33a1f898c2388e887ffe .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-33a1f898c2388e887ffe .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-33a1f898c2388e887ffe {
+      grid-area: 1/14/18/22;
+      z-index: 1;
+
+      
+    }
+
+    .fe-block-33a1f898c2388e887ffe .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-33a1f898c2388e887ffe .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-6640b7b9930cf2252aa3b1fc"><div class="fe-block fe-block-d5c8b1cb0112f1996cec"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-d5c8b1cb0112f1996cec"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-hidden
+        design-layout-fluid
+        image-position-left
+        combination-animation-fade-in
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  data-animation-override
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            
+            
+            
+            
+            
+            
+            <img data-stretch="true" src="https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/6dd4f4e5-5131-49b1-9223-5a305b4deb4b/2888486jpgOriginalDelivery.jpg" data-image="https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/6dd4f4e5-5131-49b1-9223-5a305b4deb4b/2888486jpgOriginalDelivery.jpg" data-image-dimensions="2641x3959" data-image-focal-point="0.007969248078004875,0.16801050065629097" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/6dd4f4e5-5131-49b1-9223-5a305b4deb4b/2888486jpgOriginalDelivery.jpg" width="2641" height="3959" alt="" sizes="100vw" style="display:block;object-fit: cover; object-position: 0.7969248078004875% 16.8010500656291%" srcset="https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/6dd4f4e5-5131-49b1-9223-5a305b4deb4b/2888486jpgOriginalDelivery.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/6dd4f4e5-5131-49b1-9223-5a305b4deb4b/2888486jpgOriginalDelivery.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/6dd4f4e5-5131-49b1-9223-5a305b4deb4b/2888486jpgOriginalDelivery.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/6dd4f4e5-5131-49b1-9223-5a305b4deb4b/2888486jpgOriginalDelivery.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/6dd4f4e5-5131-49b1-9223-5a305b4deb4b/2888486jpgOriginalDelivery.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/6dd4f4e5-5131-49b1-9223-5a305b4deb4b/2888486jpgOriginalDelivery.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/6dd4f4e5-5131-49b1-9223-5a305b4deb4b/2888486jpgOriginalDelivery.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-33a1f898c2388e887ffe"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-33a1f898c2388e887ffe"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fit">
+                
+            
+            
+            
+            
+            
+            
+            <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/2fba5f51-a18e-4ee7-93b6-0b53db29dfc2/1716607jpgOriginalDelivery.jpg" data-image="https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/2fba5f51-a18e-4ee7-93b6-0b53db29dfc2/1716607jpgOriginalDelivery.jpg" data-image-dimensions="2780x4169" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/2fba5f51-a18e-4ee7-93b6-0b53db29dfc2/1716607jpgOriginalDelivery.jpg" width="2780" height="4169" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 50vw, 33.33333333333333vw" style="display:block;object-fit: contain; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/2fba5f51-a18e-4ee7-93b6-0b53db29dfc2/1716607jpgOriginalDelivery.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/2fba5f51-a18e-4ee7-93b6-0b53db29dfc2/1716607jpgOriginalDelivery.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/2fba5f51-a18e-4ee7-93b6-0b53db29dfc2/1716607jpgOriginalDelivery.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/2fba5f51-a18e-4ee7-93b6-0b53db29dfc2/1716607jpgOriginalDelivery.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/2fba5f51-a18e-4ee7-93b6-0b53db29dfc2/1716607jpgOriginalDelivery.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/2fba5f51-a18e-4ee7-93b6-0b53db29dfc2/1716607jpgOriginalDelivery.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/2fba5f51-a18e-4ee7-93b6-0b53db29dfc2/1716607jpgOriginalDelivery.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="black"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--top
+    
+      
+    
+    
+    black'
+  
+  data-section-id="6640b7b9930cf2252aa3b200"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;customSectionHeight&quot;: 85,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--top&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;black&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;divider&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border"
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-6640b7b9930cf2252aa3b1ff {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(13,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-6640b7b9930cf2252aa3b1ff {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-6640b7b9930cf2252aa3b1ff {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(13,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-a0669fac7b5922d0104f {
+    grid-area: 1/2/7/10;
+    z-index: 0;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-a0669fac7b5922d0104f .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-a0669fac7b5922d0104f .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-a0669fac7b5922d0104f {
+      grid-area: 1/8/6/20;
+      z-index: 0;
+
+      
+    }
+
+    .fe-block-a0669fac7b5922d0104f .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-a0669fac7b5922d0104f .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-180018154392d148e00c {
+    grid-area: 8/2/14/6;
+    z-index: 1;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-180018154392d148e00c .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-180018154392d148e00c .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-180018154392d148e00c {
+      grid-area: 8/8/14/14;
+      z-index: 1;
+
+      
+    }
+
+    .fe-block-180018154392d148e00c .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-180018154392d148e00c .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-0b0aedf7afa8da203507 {
+    grid-area: 8/6/14/10;
+    z-index: 2;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-0b0aedf7afa8da203507 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-0b0aedf7afa8da203507 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-0b0aedf7afa8da203507 {
+      grid-area: 8/14/14/20;
+      z-index: 2;
+
+      
+    }
+
+    .fe-block-0b0aedf7afa8da203507 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-0b0aedf7afa8da203507 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-6640b7b9930cf2252aa3b1ff"><div class="fe-block fe-block-a0669fac7b5922d0104f"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-a0669fac7b5922d0104f"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h3 style="text-align:center;white-space:pre-wrap;">AMENITIES</h3><p style="text-align:center;white-space:pre-wrap;" class="sqsrte-large">At Klipsan Fitness, we’re always expanding our amenities to meet the needs of our community. Something you’d like to see added to our list? Submit a request.</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-180018154392d148e00c"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-180018154392d148e00c"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class="sqsrte-small">Modern Facilities<br>•<br>Premium Classes<br>•<br>Personal Trainers<br>•<br>Rockwall<br>•<br>Boxing Ring</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-0b0aedf7afa8da203507"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-0b0aedf7afa8da203507"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class="sqsrte-small">Juice Bar<br>•<br>Personal Nutritiousness<br>• <br>Monthly Guest Passes<br>•<br>Basketball Courts<br>•<br>Lockers</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="white"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    white'
+  
+  data-section-id="6640b7b9930cf2252aa3b203"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;customSectionHeight&quot;: 85,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;white&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;divider&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border"
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-6640b7b9930cf2252aa3b202 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(19,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-6640b7b9930cf2252aa3b202 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-6640b7b9930cf2252aa3b202 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(12,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-af40ca60b621d235aac4 {
+    grid-area: 1/2/7/10;
+    z-index: 0;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-af40ca60b621d235aac4 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-af40ca60b621d235aac4 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-af40ca60b621d235aac4 {
+      grid-area: 1/2/9/10;
+      z-index: 0;
+
+      
+    }
+
+    .fe-block-af40ca60b621d235aac4 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-af40ca60b621d235aac4 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-c64b3f19fce86c56ecd4 {
+    grid-area: 8/2/20/10;
+    z-index: 1;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-c64b3f19fce86c56ecd4 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-c64b3f19fce86c56ecd4 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-c64b3f19fce86c56ecd4 {
+      grid-area: 1/14/13/26;
+      z-index: 1;
+
+      
+    }
+
+    .fe-block-c64b3f19fce86c56ecd4 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-c64b3f19fce86c56ecd4 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-6640b7b9930cf2252aa3b202"><div class="fe-block fe-block-af40ca60b621d235aac4"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-af40ca60b621d235aac4"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h3 style="white-space:pre-wrap;">SCHEDULE A VISIT</h3><p class="sqsrte-large" style="white-space:pre-wrap;">Take a free 30-minute tour of either of our locations to help you decide if Klipsan is the right gym for you. You’ll have the opportunity to try equipment, observe classes, and get direct answers to all of your questions.</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-c64b3f19fce86c56ecd4"><div class="sqs-block form-block sqs-block-form" data-blend-mode="NORMAL" data-block-type="9" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-c64b3f19fce86c56ecd4"><div class="sqs-block-content">
+
+  <script type="application/json" id="form-context-6640b7b9930cf2252aa3b1e0" class="sqs-form-block-context">{"secureUrl":"https://blackbird-pomegranate-h6g9.squarespace.com","formSubmitButtonText":"Submit","formSubmissionMessage":{"html":"Thank you!"},"submissionVerticalAlignment":"","buttonAlignment":"left","submissionMessageTextStyle":"","formName":"New Form","collectionId":"6640b7b9930cf2252aa3b1f4","submissionAnimation":"","captchaTheme":1,"formId":"6640b7b9930cf2252aa3b1e0","useLightbox":false,"firstFieldHighlightType":"","successRedirect":"","useFormsJs":true,"submissionTextAlignment":"","formFieldFormats":{"initialPhoneFormat":{"id":0,"type":"PHONE_NUMBER","country":"HU","labelLocale":"en-US","fields":[{"type":"FIELD","label":"1","identifier":"1","length":1,"required":false,"metadata":{}},{"type":"SEPARATOR","label":" ","identifier":"Space","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"2","identifier":"2","length":3,"required":false,"metadata":{}},{"type":"SEPARATOR","label":" ","identifier":"Space","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"3","identifier":"3","length":16,"required":false,"metadata":{}}]},"countries":[{"name":"Afghanistan","code":"AF","phoneCode":"+93"},{"name":"Åland Islands","code":"AX","phoneCode":"+358"},{"name":"Albania","code":"AL","phoneCode":"+355"},{"name":"Algeria","code":"DZ","phoneCode":"+213"},{"name":"American Samoa","code":"AS","phoneCode":"+1"},{"name":"Andorra","code":"AD","phoneCode":"+376"},{"name":"Angola","code":"AO","phoneCode":"+244"},{"name":"Anguilla","code":"AI","phoneCode":"+1"},{"name":"Antigua & Barbuda","code":"AG","phoneCode":"+1"},{"name":"Argentina","code":"AR","phoneCode":"+54"},{"name":"Armenia","code":"AM","phoneCode":"+374"},{"name":"Aruba","code":"AW","phoneCode":"+297"},{"name":"Ascension Island","code":"AC","phoneCode":"+247"},{"name":"Australia","code":"AU","phoneCode":"+61"},{"name":"Austria","code":"AT","phoneCode":"+43"},{"name":"Azerbaijan","code":"AZ","phoneCode":"+994"},{"name":"Bahamas","code":"BS","phoneCode":"+1"},{"name":"Bahrain","code":"BH","phoneCode":"+973"},{"name":"Bangladesh","code":"BD","phoneCode":"+880"},{"name":"Barbados","code":"BB","phoneCode":"+1"},{"name":"Belarus","code":"BY","phoneCode":"+375"},{"name":"Belgium","code":"BE","phoneCode":"+32"},{"name":"Belize","code":"BZ","phoneCode":"+501"},{"name":"Benin","code":"BJ","phoneCode":"+229"},{"name":"Bermuda","code":"BM","phoneCode":"+1"},{"name":"Bhutan","code":"BT","phoneCode":"+975"},{"name":"Bolivia","code":"BO","phoneCode":"+591"},{"name":"Bosnia & Herzegovina","code":"BA","phoneCode":"+387"},{"name":"Botswana","code":"BW","phoneCode":"+267"},{"name":"Brazil","code":"BR","phoneCode":"+55"},{"name":"British Indian Ocean Territory","code":"IO","phoneCode":"+246"},{"name":"British Virgin Islands","code":"VG","phoneCode":"+1"},{"name":"Brunei","code":"BN","phoneCode":"+673"},{"name":"Bulgaria","code":"BG","phoneCode":"+359"},{"name":"Burkina Faso","code":"BF","phoneCode":"+226"},{"name":"Burundi","code":"BI","phoneCode":"+257"},{"name":"Cambodia","code":"KH","phoneCode":"+855"},{"name":"Cameroon","code":"CM","phoneCode":"+237"},{"name":"Canada","code":"CA","phoneCode":"+1"},{"name":"Cape Verde","code":"CV","phoneCode":"+238"},{"name":"Caribbean Netherlands","code":"BQ","phoneCode":"+599"},{"name":"Cayman Islands","code":"KY","phoneCode":"+1"},{"name":"Central African Republic","code":"CF","phoneCode":"+236"},{"name":"Chad","code":"TD","phoneCode":"+235"},{"name":"Chile","code":"CL","phoneCode":"+56"},{"name":"China","code":"CN","phoneCode":"+86"},{"name":"Christmas Island","code":"CX","phoneCode":"+61"},{"name":"Cocos (Keeling) Islands","code":"CC","phoneCode":"+61"},{"name":"Colombia","code":"CO","phoneCode":"+57"},{"name":"Comoros","code":"KM","phoneCode":"+269"},{"name":"Congo - Brazzaville","code":"CG","phoneCode":"+242"},{"name":"Congo - Kinshasa","code":"CD","phoneCode":"+243"},{"name":"Cook Islands","code":"CK","phoneCode":"+682"},{"name":"Costa Rica","code":"CR","phoneCode":"+506"},{"name":"Côte d’Ivoire","code":"CI","phoneCode":"+225"},{"name":"Croatia","code":"HR","phoneCode":"+385"},{"name":"Cuba","code":"CU","phoneCode":"+53"},{"name":"Curaçao","code":"CW","phoneCode":"+599"},{"name":"Cyprus","code":"CY","phoneCode":"+357"},{"name":"Czechia","code":"CZ","phoneCode":"+420"},{"name":"Denmark","code":"DK","phoneCode":"+45"},{"name":"Djibouti","code":"DJ","phoneCode":"+253"},{"name":"Dominica","code":"DM","phoneCode":"+1"},{"name":"Dominican Republic","code":"DO","phoneCode":"+1"},{"name":"Ecuador","code":"EC","phoneCode":"+593"},{"name":"Egypt","code":"EG","phoneCode":"+20"},{"name":"El Salvador","code":"SV","phoneCode":"+503"},{"name":"Equatorial Guinea","code":"GQ","phoneCode":"+240"},{"name":"Eritrea","code":"ER","phoneCode":"+291"},{"name":"Estonia","code":"EE","phoneCode":"+372"},{"name":"Eswatini","code":"SZ","phoneCode":"+268"},{"name":"Ethiopia","code":"ET","phoneCode":"+251"},{"name":"Falkland Islands","code":"FK","phoneCode":"+500"},{"name":"Faroe Islands","code":"FO","phoneCode":"+298"},{"name":"Fiji","code":"FJ","phoneCode":"+679"},{"name":"Finland","code":"FI","phoneCode":"+358"},{"name":"France","code":"FR","phoneCode":"+33"},{"name":"French Guiana","code":"GF","phoneCode":"+594"},{"name":"French Polynesia","code":"PF","phoneCode":"+689"},{"name":"Gabon","code":"GA","phoneCode":"+241"},{"name":"Gambia","code":"GM","phoneCode":"+220"},{"name":"Georgia","code":"GE","phoneCode":"+995"},{"name":"Germany","code":"DE","phoneCode":"+49"},{"name":"Ghana","code":"GH","phoneCode":"+233"},{"name":"Gibraltar","code":"GI","phoneCode":"+350"},{"name":"Greece","code":"GR","phoneCode":"+30"},{"name":"Greenland","code":"GL","phoneCode":"+299"},{"name":"Grenada","code":"GD","phoneCode":"+1"},{"name":"Guadeloupe","code":"GP","phoneCode":"+590"},{"name":"Guam","code":"GU","phoneCode":"+1"},{"name":"Guatemala","code":"GT","phoneCode":"+502"},{"name":"Guernsey","code":"GG","phoneCode":"+44"},{"name":"Guinea","code":"GN","phoneCode":"+224"},{"name":"Guinea-Bissau","code":"GW","phoneCode":"+245"},{"name":"Guyana","code":"GY","phoneCode":"+592"},{"name":"Haiti","code":"HT","phoneCode":"+509"},{"name":"Honduras","code":"HN","phoneCode":"+504"},{"name":"Hong Kong SAR China","code":"HK","phoneCode":"+852"},{"name":"Hungary","code":"HU","phoneCode":"+36"},{"name":"Iceland","code":"IS","phoneCode":"+354"},{"name":"India","code":"IN","phoneCode":"+91"},{"name":"Indonesia","code":"ID","phoneCode":"+62"},{"name":"Iran","code":"IR","phoneCode":"+98"},{"name":"Iraq","code":"IQ","phoneCode":"+964"},{"name":"Ireland","code":"IE","phoneCode":"+353"},{"name":"Isle of Man","code":"IM","phoneCode":"+44"},{"name":"Israel","code":"IL","phoneCode":"+972"},{"name":"Italy","code":"IT","phoneCode":"+39"},{"name":"Jamaica","code":"JM","phoneCode":"+1"},{"name":"Japan","code":"JP","phoneCode":"+81"},{"name":"Jersey","code":"JE","phoneCode":"+44"},{"name":"Jordan","code":"JO","phoneCode":"+962"},{"name":"Kazakhstan","code":"KZ","phoneCode":"+7"},{"name":"Kenya","code":"KE","phoneCode":"+254"},{"name":"Kiribati","code":"KI","phoneCode":"+686"},{"name":"Kosovo","code":"XK","phoneCode":"+383"},{"name":"Kuwait","code":"KW","phoneCode":"+965"},{"name":"Kyrgyzstan","code":"KG","phoneCode":"+996"},{"name":"Laos","code":"LA","phoneCode":"+856"},{"name":"Latvia","code":"LV","phoneCode":"+371"},{"name":"Lebanon","code":"LB","phoneCode":"+961"},{"name":"Lesotho","code":"LS","phoneCode":"+266"},{"name":"Liberia","code":"LR","phoneCode":"+231"},{"name":"Libya","code":"LY","phoneCode":"+218"},{"name":"Liechtenstein","code":"LI","phoneCode":"+423"},{"name":"Lithuania","code":"LT","phoneCode":"+370"},{"name":"Luxembourg","code":"LU","phoneCode":"+352"},{"name":"Macao SAR China","code":"MO","phoneCode":"+853"},{"name":"Madagascar","code":"MG","phoneCode":"+261"},{"name":"Malawi","code":"MW","phoneCode":"+265"},{"name":"Malaysia","code":"MY","phoneCode":"+60"},{"name":"Maldives","code":"MV","phoneCode":"+960"},{"name":"Mali","code":"ML","phoneCode":"+223"},{"name":"Malta","code":"MT","phoneCode":"+356"},{"name":"Marshall Islands","code":"MH","phoneCode":"+692"},{"name":"Martinique","code":"MQ","phoneCode":"+596"},{"name":"Mauritania","code":"MR","phoneCode":"+222"},{"name":"Mauritius","code":"MU","phoneCode":"+230"},{"name":"Mayotte","code":"YT","phoneCode":"+262"},{"name":"Mexico","code":"MX","phoneCode":"+52"},{"name":"Micronesia","code":"FM","phoneCode":"+691"},{"name":"Moldova","code":"MD","phoneCode":"+373"},{"name":"Monaco","code":"MC","phoneCode":"+377"},{"name":"Mongolia","code":"MN","phoneCode":"+976"},{"name":"Montenegro","code":"ME","phoneCode":"+382"},{"name":"Montserrat","code":"MS","phoneCode":"+1"},{"name":"Morocco","code":"MA","phoneCode":"+212"},{"name":"Mozambique","code":"MZ","phoneCode":"+258"},{"name":"Myanmar (Burma)","code":"MM","phoneCode":"+95"},{"name":"Namibia","code":"NA","phoneCode":"+264"},{"name":"Nauru","code":"NR","phoneCode":"+674"},{"name":"Nepal","code":"NP","phoneCode":"+977"},{"name":"Netherlands","code":"NL","phoneCode":"+31"},{"name":"New Caledonia","code":"NC","phoneCode":"+687"},{"name":"New Zealand","code":"NZ","phoneCode":"+64"},{"name":"Nicaragua","code":"NI","phoneCode":"+505"},{"name":"Niger","code":"NE","phoneCode":"+227"},{"name":"Nigeria","code":"NG","phoneCode":"+234"},{"name":"Niue","code":"NU","phoneCode":"+683"},{"name":"Norfolk Island","code":"NF","phoneCode":"+672"},{"name":"Northern Mariana Islands","code":"MP","phoneCode":"+1"},{"name":"North Korea","code":"KP","phoneCode":"+850"},{"name":"North Macedonia","code":"MK","phoneCode":"+389"},{"name":"Norway","code":"NO","phoneCode":"+47"},{"name":"Oman","code":"OM","phoneCode":"+968"},{"name":"Pakistan","code":"PK","phoneCode":"+92"},{"name":"Palau","code":"PW","phoneCode":"+680"},{"name":"Palestinian Territories","code":"PS","phoneCode":"+970"},{"name":"Panama","code":"PA","phoneCode":"+507"},{"name":"Papua New Guinea","code":"PG","phoneCode":"+675"},{"name":"Paraguay","code":"PY","phoneCode":"+595"},{"name":"Peru","code":"PE","phoneCode":"+51"},{"name":"Philippines","code":"PH","phoneCode":"+63"},{"name":"Poland","code":"PL","phoneCode":"+48"},{"name":"Portugal","code":"PT","phoneCode":"+351"},{"name":"Puerto Rico","code":"PR","phoneCode":"+1"},{"name":"Qatar","code":"QA","phoneCode":"+974"},{"name":"Réunion","code":"RE","phoneCode":"+262"},{"name":"Romania","code":"RO","phoneCode":"+40"},{"name":"Russia","code":"RU","phoneCode":"+7"},{"name":"Rwanda","code":"RW","phoneCode":"+250"},{"name":"Samoa","code":"WS","phoneCode":"+685"},{"name":"San Marino","code":"SM","phoneCode":"+378"},{"name":"São Tomé & Príncipe","code":"ST","phoneCode":"+239"},{"name":"Saudi Arabia","code":"SA","phoneCode":"+966"},{"name":"Senegal","code":"SN","phoneCode":"+221"},{"name":"Serbia","code":"RS","phoneCode":"+381"},{"name":"Seychelles","code":"SC","phoneCode":"+248"},{"name":"Sierra Leone","code":"SL","phoneCode":"+232"},{"name":"Singapore","code":"SG","phoneCode":"+65"},{"name":"Sint Maarten","code":"SX","phoneCode":"+1"},{"name":"Slovakia","code":"SK","phoneCode":"+421"},{"name":"Slovenia","code":"SI","phoneCode":"+386"},{"name":"Solomon Islands","code":"SB","phoneCode":"+677"},{"name":"Somalia","code":"SO","phoneCode":"+252"},{"name":"South Africa","code":"ZA","phoneCode":"+27"},{"name":"South Korea","code":"KR","phoneCode":"+82"},{"name":"South Sudan","code":"SS","phoneCode":"+211"},{"name":"Spain","code":"ES","phoneCode":"+34"},{"name":"Sri Lanka","code":"LK","phoneCode":"+94"},{"name":"St. Barthélemy","code":"BL","phoneCode":"+590"},{"name":"St. Helena","code":"SH","phoneCode":"+290"},{"name":"St. Kitts & Nevis","code":"KN","phoneCode":"+1"},{"name":"St. Lucia","code":"LC","phoneCode":"+1"},{"name":"St. Martin","code":"MF","phoneCode":"+590"},{"name":"St. Pierre & Miquelon","code":"PM","phoneCode":"+508"},{"name":"St. Vincent & Grenadines","code":"VC","phoneCode":"+1"},{"name":"Sudan","code":"SD","phoneCode":"+249"},{"name":"Suriname","code":"SR","phoneCode":"+597"},{"name":"Svalbard & Jan Mayen","code":"SJ","phoneCode":"+47"},{"name":"Sweden","code":"SE","phoneCode":"+46"},{"name":"Switzerland","code":"CH","phoneCode":"+41"},{"name":"Syria","code":"SY","phoneCode":"+963"},{"name":"Taiwan","code":"TW","phoneCode":"+886"},{"name":"Tajikistan","code":"TJ","phoneCode":"+992"},{"name":"Tanzania","code":"TZ","phoneCode":"+255"},{"name":"Thailand","code":"TH","phoneCode":"+66"},{"name":"Timor-Leste","code":"TL","phoneCode":"+670"},{"name":"Togo","code":"TG","phoneCode":"+228"},{"name":"Tokelau","code":"TK","phoneCode":"+690"},{"name":"Tonga","code":"TO","phoneCode":"+676"},{"name":"Trinidad & Tobago","code":"TT","phoneCode":"+1"},{"name":"Tristan da Cunha","code":"TA","phoneCode":"+290"},{"name":"Tunisia","code":"TN","phoneCode":"+216"},{"name":"Turkey","code":"TR","phoneCode":"+90"},{"name":"Turkmenistan","code":"TM","phoneCode":"+993"},{"name":"Turks & Caicos Islands","code":"TC","phoneCode":"+1"},{"name":"Tuvalu","code":"TV","phoneCode":"+688"},{"name":"U.S. Virgin Islands","code":"VI","phoneCode":"+1"},{"name":"Uganda","code":"UG","phoneCode":"+256"},{"name":"Ukraine","code":"UA","phoneCode":"+380"},{"name":"United Arab Emirates","code":"AE","phoneCode":"+971"},{"name":"United Kingdom","code":"GB","phoneCode":"+44"},{"name":"United States","code":"US","phoneCode":"+1"},{"name":"Uruguay","code":"UY","phoneCode":"+598"},{"name":"Uzbekistan","code":"UZ","phoneCode":"+998"},{"name":"Vanuatu","code":"VU","phoneCode":"+678"},{"name":"Vatican City","code":"VA","phoneCode":"+39"},{"name":"Venezuela","code":"VE","phoneCode":"+58"},{"name":"Vietnam","code":"VN","phoneCode":"+84"},{"name":"Wallis & Futuna","code":"WF","phoneCode":"+681"},{"name":"Western Sahara","code":"EH","phoneCode":"+212"},{"name":"Yemen","code":"YE","phoneCode":"+967"},{"name":"Zambia","code":"ZM","phoneCode":"+260"},{"name":"Zimbabwe","code":"ZW","phoneCode":"+263"}],"initialAddressFormat":{"id":0,"type":"ADDRESS","country":"HU","labelLocale":"en","fields":[{"type":"FIELD","label":"City","identifier":"City","length":0,"required":true,"metadata":{"autocomplete":"address-level1"}},{"type":"SEPARATOR","label":"\n","identifier":"Newline","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"Address Line 1","identifier":"Line1","length":0,"required":true,"metadata":{"autocomplete":"address-line1"}},{"type":"SEPARATOR","label":"\n","identifier":"Newline","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"Address Line 2","identifier":"Line2","length":0,"required":false,"metadata":{"autocomplete":"address-line2"}},{"type":"SEPARATOR","label":"\n","identifier":"Newline","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"Postal Code","identifier":"Zip","length":0,"required":true,"metadata":{"autocomplete":"postal-code"}}]}},"showTitle":false,"captchaEnabled":true,"buttonVariant":"","objectName":"c64b3f19fce86c56ecd4","disclaimerMessage":null,"formFields":[{"type":"name","id":"name-yui_3_17_2_1_1596051534885_15441","locked":false,"title":"Name","description":"","required":true,"name":true},{"type":"email","id":"email-yui_3_17_2_1_1596051534885_15442","locked":false,"title":"Email","description":"","placeholder":"","required":true,"email":true},{"type":"date","id":"date-yui_3_17_2_1_1596046646232_53485","locked":false,"title":"Date","description":"","required":true,"date":true}],"captchaAlignment":1,"lightboxHandleText":"","localizedStrings":{"validation":{"noValidSelection":"A valid selection must be made.","invalidEmail":"Email addresses should follow the format user@domain.com.","invalidUrl":"Must be a valid URL.","invalidListLength":"Value should be {0} elements long.","allEmpty":"Please fill out at least one form field.","stringTooLong":"Value should have a length no longer than {0}.","missingRequiredQuestion":"Missing a required question.","invalidQuestion":"Contained an invalid question.","captchaFailure":"Captcha validation failed. Please try again.","containsInvalidKey":"{0} contains an invalid key.","stringTooShort":"Value should have a length of at least {0}.","invalidTwitterUsername":"Must be a valid Twitter username.","valueOutsideRange":"Value must be in the range {0} to {1}.","invalid":"{0} is not valid.","invalidPassword":"Passwords should not contain whitespace.","missingRequiredSubfields":"{0} is missing required subfields: {1}","invalidCurrency":"Currency value should be formatted like 1234 or 123.99.","invalidMapSize":"Value should contain exactly {0} elements.","formErrors":"Form Errors","containsInvalidValue":"{0} contains an invalid value.","subfieldsRequired":"All fields in {0} are required.","formSubmissionFailed":"Form submission failed. Review the following information: {0}.","invalidCountryCode":"Country code should have an optional plus and up to 4 digits.","invalidUnsignedNumber":"Numbers must contain only digits and no other characters.","invalidName":"Valid names contain only letters, numbers, spaces, ', or - characters.","invalidDate":"This is not a real date.","required":"{0} is required.","invalidStringLength":"Value should be {0} characters long."},"submit":"Submit","status":{"title":"{@} Block","learnMore":"Learn more"},"name":{"firstName":"First Name","lastName":"Last Name"},"address":{"country":"Country","zipPostalCode":"Zip/Postal Code","address2":"Address 2","address1":"Address 1","city":"City","stateProvince":"State/Province"},"lightbox":{"openForm":"Open Form"},"date":{"day":"Day","month":"Month","yyyy":"YYYY","year":"Year","dd":"DD","mm":"MM"},"likert":{"agree":"Agree","disagree":"Disagree","stronglyDisagree":"Strongly Disagree","stronglyAgree":"Strongly Agree","neutral":"Neutral"},"time":{"am":"AM","second":"Second","amPm":"AM/PM","pm":"PM","minute":"Minute","hour":"Hour"},"email":{"signUp":"Sign up for news and updates"},"cannotSubmitDemoForm":"This is a demo form and cannot be submitted.","notFound":"Form not found.","phone":{"country":"Country","number":"Number","prefix":"Prefix","areaCode":"Area Code","line":"Line"},"required":"(required)","submitError":"Unable to submit form. Please try again later.","invalidData":"Invalid form data."}}</script>
+  <div id="form-submission-html-6640b7b9930cf2252aa3b1e0" class="sqs-form-block-submission-html" data-submission-html=""></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+<div class="form-wrapper"
+  
+>
+  
+  <div class="form-inner-wrapper"  hidden>
+    <form
+       data-form-id="6640b7b9930cf2252aa3b1e0"
+       data-success-redirect=""
+       data-dynamic-strings
+       autocomplete="on"
+       
+       method="POST"
+       action="https://blackbird-pomegranate-h6g9.squarespace.com"
+       novalidate
+       onsubmit="return (function (form) {
+  Y.use('squarespace-form-submit', 'node', function usingFormSubmit(Y) {
+    (new Y.Squarespace.FormSubmit(form)).submit({
+      formId: '6640b7b9930cf2252aa3b1e0',
+      collectionId: '6640b7b9930cf2252aa3b1f4',
+      objectName: 'c64b3f19fce86c56ecd4'
+    });
+  });
+  return false;
+})(this);"
+       
+    >
+      
+        <div class="field-list clear">
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <fieldset id="name-yui_3_17_2_1_1596051534885_15441" class="form-item fields name required">
+                
+            <legend class="title">
+              Name
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </legend>
+          
+                
+                <div class="field first-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="fname"
+                        x-autocompletetype="given-name"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="First"
+                        aria-required="true"
+                    />
+                    <span class="caption-text">First Name</span>
+                  </label>
+                </div>
+                <div class="field last-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="lname"
+                        x-autocompletetype="surname"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="Last"
+                        aria-required="true"
+                    />
+                    <span class="caption-text">Last Name</span>
+                  </label>
+                </div>
+              </fieldset>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+              <div id="email-yui_3_17_2_1_1596051534885_15442" class="form-item field email required">
+                
+            <label class="title" for="email-yui_3_17_2_1_1596051534885_15442-field">
+              Email
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <input
+                    class="field-element"
+                    id="email-yui_3_17_2_1_1596051534885_15442-field"
+                    name="email"
+                    type="email"
+                    autocomplete="email"
+                    spellcheck="false"
+                    
+                    aria-required="true"
+                />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <fieldset id="date-yui_3_17_2_1_1596046646232_53485" class="form-item fields date required">
+                
+            <legend class="title">
+              Date
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </legend>
+          
+                
+                <div class="field month two-digits">
+                  <label class="caption">
+                    <input
+                        class="field-element"
+                        type="text"
+                        maxlength="2"
+                        data-title="Month"
+                        aria-required="true"
+                    />
+                    <span class="caption-text">MM</span>
+                  </label>
+                </div>
+                <div class="field day two-digits">
+                  <label class="caption">
+                    <input
+                      class="field-element"
+                      type="text"
+                      maxlength="2"
+                      data-title="Day"
+                      aria-required="true"
+                      />
+                    <span class="caption-text">DD</span>
+                  </label>
+                </div>
+                <div class="field year four-digits">
+                  <label class="caption">
+                    <input
+                        class="field-element"
+                        type="text"
+                        maxlength="4"
+                        data-title="Year"
+                        aria-required="true"
+                    />
+                    <span class="caption-text">YYYY</span>
+                  </label>
+                </div>
+              </fieldset>
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+        </div>
+
+      
+
+      
+      <div class="captcha-container
+        align-left
+        
+        
+        "
+        data-theme="light"
+      ></div>
+      
+
+      
+      <div data-animation-role="button"
+        class="
+          form-button-wrapper
+          
+            form-button-wrapper--align-left
+          
+        "
+      >
+        <input
+          class="button sqs-system-button sqs-editable-button sqs-button-element--primary"
+          type="submit"
+          value="Submit"
+        />
+      </div>
+      
+
+      
+      <div class="hidden form-submission-text">Thank you!</div>
+      <div class="hidden form-submission-html" data-submission-html=""></div>
+    </form>
+  </div>
+</div>
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="black"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+       has-background
+    
+    
+    black'
+  
+  data-section-id="6640b7b9930cf2252aa3b206"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;6640b7b9930cf2252aa3b1e3&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1596051709590,
+    &quot;updatedOn&quot;: 1650032626601,
+    &quot;starred&quot;: false,
+    &quot;passthrough&quot;: false,
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1596051709590,
+    &quot;authorId&quot;: &quot;6640b7854038b96fcc1b2771&quot;,
+    &quot;systemDataId&quot;: &quot;1649097839278-YAQ9UB4TUPOY73M5J31E&quot;,
+    &quot;systemDataVariants&quot;: &quot;1500x600,100w,300w,500w,750w,1000w,1500w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+    &quot;filename&quot;: &quot;GRADIENT-DRIVE.jpg&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.5,
+      &quot;y&quot;: 0.5,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;fadf6c&quot;,
+      &quot;topRightAverage&quot;: &quot;c9cbbf&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;f9dc70&quot;,
+      &quot;bottomRightAverage&quot;: &quot;bccbb9&quot;,
+      &quot;centerAverage&quot;: &quot;eccba6&quot;,
+      &quot;suggestedBgColor&quot;: &quot;fadf6e&quot;
+    },
+    &quot;urlId&quot;: &quot;ytrs595qep6b7l6jifqfnsgwqs3wve-42k8t-k6732&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;6640b7854038b96fcc1b2771&quot;,
+      &quot;displayName&quot;: &quot;Fentesek Benn&quot;,
+      &quot;firstName&quot;: &quot;Fentesek&quot;,
+      &quot;lastName&quot;: &quot;Benn&quot;,
+      &quot;avatarUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/6640b7854038b96fcc1b2771/8c2e136c-4902-4a8f-b4f8-1175e29d709a/thirdPartyMemberAvatar-6640b7854038b96fcc1b2771-e88f3247-9037-4c6a-91ea-8680c7aecb7e?format=300w&quot;,
+      &quot;bio&quot;: &quot;&quot;,
+      &quot;avatarAssetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/6640b7854038b96fcc1b2771/8c2e136c-4902-4a8f-b4f8-1175e29d709a/thirdPartyMemberAvatar-6640b7854038b96fcc1b2771-e88f3247-9037-4c6a-91ea-8680c7aecb7e?format=300w&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839278-YAQ9UB4TUPOY73M5J31E/GRADIENT-DRIVE.jpg&quot;,
+    &quot;contentType&quot;: &quot;image/jpeg&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;originalSize&quot;: &quot;1500x600&quot;,
+    &quot;recordTypeLabel&quot;: &quot;image&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;black&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;divider&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+     style="min-height: 10vh;" 
+  
+  
+>
+  <div
+    class="section-border"
+    
+  >
+    <div class="section-background">
+    
+      
+        
+        
+          
+
+
+
+
+
+  
+
+
+
+<img alt="" src="https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839278-YAQ9UB4TUPOY73M5J31E/GRADIENT-DRIVE.jpg" data-image="https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839278-YAQ9UB4TUPOY73M5J31E/GRADIENT-DRIVE.jpg" data-image-dimensions="1500x600" data-image-focal-point="0.5,0.5" alt="GRADIENT-DRIVE.jpg" data-load="false" elementtiming="nbf-background" src="https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839278-YAQ9UB4TUPOY73M5J31E/GRADIENT-DRIVE.jpg" width="1500" height="600" alt="" sizes="(max-width: 799px) 200vw, 100vw" style="display:block;object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839278-YAQ9UB4TUPOY73M5J31E/GRADIENT-DRIVE.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839278-YAQ9UB4TUPOY73M5J31E/GRADIENT-DRIVE.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839278-YAQ9UB4TUPOY73M5J31E/GRADIENT-DRIVE.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839278-YAQ9UB4TUPOY73M5J31E/GRADIENT-DRIVE.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839278-YAQ9UB4TUPOY73M5J31E/GRADIENT-DRIVE.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839278-YAQ9UB4TUPOY73M5J31E/GRADIENT-DRIVE.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839278-YAQ9UB4TUPOY73M5J31E/GRADIENT-DRIVE.jpg?format=2500w 2500w" fetchpriority="low" loading="lazy" decoding="async" data-loader="sqs">
+
+
+
+
+        
+        <div class="section-background-overlay" style="opacity: 0.15;"></div>
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+          
+          
+          padding-top: calc(10vmax / 10); padding-bottom: calc(10vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-6640b7b9930cf2252aa3b205 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(16,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-6640b7b9930cf2252aa3b205 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-6640b7b9930cf2252aa3b205 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(15,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-e573d8a13c30a503a5bc {
+    grid-area: 3/2/15/10;
+    z-index: 0;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-e573d8a13c30a503a5bc .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-e573d8a13c30a503a5bc .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-e573d8a13c30a503a5bc {
+      grid-area: 3/5/14/23;
+      z-index: 0;
+
+      
+    }
+
+    .fe-block-e573d8a13c30a503a5bc .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-e573d8a13c30a503a5bc .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-6640b7b9930cf2252aa3b205"><div class="fe-block fe-block-e573d8a13c30a503a5bc"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-e573d8a13c30a503a5bc"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h1 style="text-align:center;white-space:pre-wrap;">“</h1><h2 style="text-align:center;white-space:pre-wrap;">KLIPSAN FITNESS WAS CENTRAL IN HELPING ME GAIN THE STAMINA FOR MY RECENT MARATHON.</h2><p style="text-align:center;white-space:pre-wrap;" class="">-Alejandro Jimenez</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="black"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    black'
+  
+  data-section-id="6640b7b9930cf2252aa3b209"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+  &quot;customSectionHeight&quot;: 85,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;black&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;divider&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border"
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-6640b7b9930cf2252aa3b208 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(5,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-6640b7b9930cf2252aa3b208 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-6640b7b9930cf2252aa3b208 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(5,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-6da97e073fb1235aa8a5 {
+    grid-area: 1/2/6/6;
+    z-index: 0;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-6da97e073fb1235aa8a5 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-6da97e073fb1235aa8a5 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-6da97e073fb1235aa8a5 {
+      grid-area: 1/2/6/14;
+      z-index: 0;
+
+      
+    }
+
+    .fe-block-6da97e073fb1235aa8a5 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-6da97e073fb1235aa8a5 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-ab6c1e1119ee40cacf11 {
+    grid-area: 1/6/6/10;
+    z-index: 1;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-ab6c1e1119ee40cacf11 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-ab6c1e1119ee40cacf11 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-ab6c1e1119ee40cacf11 {
+      grid-area: 1/14/6/26;
+      z-index: 1;
+
+      
+    }
+
+    .fe-block-ab6c1e1119ee40cacf11 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-ab6c1e1119ee40cacf11 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-6640b7b9930cf2252aa3b208"><div class="fe-block fe-block-6da97e073fb1235aa8a5"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-6da97e073fb1235aa8a5"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h3 style="text-align:center;white-space:pre-wrap;">BROOKLYN</h3><p style="text-align:center;white-space:pre-wrap;" class="">12834 Fitness Ln.<br>Brooklyn, NY<br>11385</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-ab6c1e1119ee40cacf11"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-ab6c1e1119ee40cacf11"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h3 style="text-align:center;white-space:pre-wrap;">LOS ANGELES</h3><p style="text-align:center;white-space:pre-wrap;" class="">12834 Fitness Ln.<br>Los Angeles, LA<br>11385</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section 
+    
+      gallery-section
+      full-bleed-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    '
+  
+  data-section-id="6640b7b9930cf2252aa3b20a"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;,
+  &quot;backgroundImage&quot;: null
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: false
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  
+  data-json-schema-section 
+  
+  
+>
+  <div
+    class="section-border"
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+        <div class="gallery gallery-section-wrapper" style="min-height: 100px;">
+          
+
+<div class="gallery" style="min-height: 100px;">
+  
+    <!-- Gallery Grid --><div
+  class="gallery-grid gallery-grid--layout-grid"
+  data-controller="GalleryGrid"
+  
+  data-section-id="6640b7b9930cf2252aa3b20a"
+  data-animation="site-default"
+  data-lightbox=""
+  data-width="full-bleed"
+  data-aspect-ratio="square"
+  data-columns="6"
+  data-gutter="0"
+  data-props='{
+  "aspectRatio": "square",
+  "scrollAnimation": "site-default",
+  "gutter": 0,
+  "numColumns": 6,
+  "width": "full-bleed",
+  "lightboxEnabled": false
+}'
+  data-show-captions="false"
+  data-test="gallery-grid-simple"
+>
+  <div class="gallery-grid-wrapper">
+    
+    <figure class="gallery-grid-item">
+      <div class="gallery-grid-item-wrapper" data-animation-role="image">
+        
+          
+          
+            
+<img src="https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839353-WUEAVI0MS9EW70OUA4HM/2888448.jpg" data-image="https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839353-WUEAVI0MS9EW70OUA4HM/2888448.jpg" data-image-dimensions="800x1200" data-image-focal-point="0.68,0.25" alt="alt=&quot; &quot;" data-load="false" src="https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839353-WUEAVI0MS9EW70OUA4HM/2888448.jpg" width="800" height="1200" alt="" sizes="(max-width:576px)50vw,(max-width:768px)33.333333333333336vw,(max-width:992px)20vw,16.666666666666668vw" style="display:block;object-position:68% 25%;object-fit:cover;width:100%;height:100%" srcset="https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839353-WUEAVI0MS9EW70OUA4HM/2888448.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839353-WUEAVI0MS9EW70OUA4HM/2888448.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839353-WUEAVI0MS9EW70OUA4HM/2888448.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839353-WUEAVI0MS9EW70OUA4HM/2888448.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839353-WUEAVI0MS9EW70OUA4HM/2888448.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839353-WUEAVI0MS9EW70OUA4HM/2888448.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839353-WUEAVI0MS9EW70OUA4HM/2888448.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+          
+          
+        
+      </div>
+      
+    </figure>
+    
+    <figure class="gallery-grid-item">
+      <div class="gallery-grid-item-wrapper" data-animation-role="image">
+        
+          
+          
+            
+<img src="https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839365-7IMNB6JSHH4DF7TQMUJ7/Stocksy_comp_2217207+%281%29.jpg" data-image="https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839365-7IMNB6JSHH4DF7TQMUJ7/Stocksy_comp_2217207+%281%29.jpg" data-image-dimensions="1500x2250" data-image-focal-point="0.5,0.5" alt="alt=&quot; &quot;" data-load="false" src="https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839365-7IMNB6JSHH4DF7TQMUJ7/Stocksy_comp_2217207+%281%29.jpg" width="1500" height="2250" alt="" sizes="(max-width:576px)50vw,(max-width:768px)33.333333333333336vw,(max-width:992px)20vw,16.666666666666668vw" style="display:block;object-position:50% 50%;object-fit:cover;width:100%;height:100%" srcset="https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839365-7IMNB6JSHH4DF7TQMUJ7/Stocksy_comp_2217207+%281%29.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839365-7IMNB6JSHH4DF7TQMUJ7/Stocksy_comp_2217207+%281%29.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839365-7IMNB6JSHH4DF7TQMUJ7/Stocksy_comp_2217207+%281%29.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839365-7IMNB6JSHH4DF7TQMUJ7/Stocksy_comp_2217207+%281%29.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839365-7IMNB6JSHH4DF7TQMUJ7/Stocksy_comp_2217207+%281%29.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839365-7IMNB6JSHH4DF7TQMUJ7/Stocksy_comp_2217207+%281%29.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839365-7IMNB6JSHH4DF7TQMUJ7/Stocksy_comp_2217207+%281%29.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+          
+          
+        
+      </div>
+      
+    </figure>
+    
+    <figure class="gallery-grid-item">
+      <div class="gallery-grid-item-wrapper" data-animation-role="image">
+        
+          
+          
+            
+<img src="https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839327-XPPCORY8DG6OEI218VI7/1716591+%281%29.jpg" data-image="https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839327-XPPCORY8DG6OEI218VI7/1716591+%281%29.jpg" data-image-dimensions="750x1125" data-image-focal-point="0.5,0.5" alt="alt=&quot; &quot;" data-load="false" src="https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839327-XPPCORY8DG6OEI218VI7/1716591+%281%29.jpg" width="750" height="1125" alt="" sizes="(max-width:576px)50vw,(max-width:768px)33.333333333333336vw,(max-width:992px)20vw,16.666666666666668vw" style="display:block;object-position:50% 50%;object-fit:cover;width:100%;height:100%" srcset="https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839327-XPPCORY8DG6OEI218VI7/1716591+%281%29.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839327-XPPCORY8DG6OEI218VI7/1716591+%281%29.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839327-XPPCORY8DG6OEI218VI7/1716591+%281%29.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839327-XPPCORY8DG6OEI218VI7/1716591+%281%29.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839327-XPPCORY8DG6OEI218VI7/1716591+%281%29.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839327-XPPCORY8DG6OEI218VI7/1716591+%281%29.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839327-XPPCORY8DG6OEI218VI7/1716591+%281%29.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+          
+          
+        
+      </div>
+      
+    </figure>
+    
+    <figure class="gallery-grid-item">
+      <div class="gallery-grid-item-wrapper" data-animation-role="image">
+        
+          
+          
+            
+<img src="https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839317-ZJRJ5911ZF2SIJKJYR5Z/2888434.jpg" data-image="https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839317-ZJRJ5911ZF2SIJKJYR5Z/2888434.jpg" data-image-dimensions="750x1125" data-image-focal-point="0.5,0.5" alt="alt=&quot; &quot;" data-load="false" src="https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839317-ZJRJ5911ZF2SIJKJYR5Z/2888434.jpg" width="750" height="1125" alt="" sizes="(max-width:576px)50vw,(max-width:768px)33.333333333333336vw,(max-width:992px)20vw,16.666666666666668vw" style="display:block;object-position:50% 50%;object-fit:cover;width:100%;height:100%" srcset="https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839317-ZJRJ5911ZF2SIJKJYR5Z/2888434.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839317-ZJRJ5911ZF2SIJKJYR5Z/2888434.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839317-ZJRJ5911ZF2SIJKJYR5Z/2888434.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839317-ZJRJ5911ZF2SIJKJYR5Z/2888434.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839317-ZJRJ5911ZF2SIJKJYR5Z/2888434.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839317-ZJRJ5911ZF2SIJKJYR5Z/2888434.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839317-ZJRJ5911ZF2SIJKJYR5Z/2888434.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+          
+          
+        
+      </div>
+      
+    </figure>
+    
+    <figure class="gallery-grid-item">
+      <div class="gallery-grid-item-wrapper" data-animation-role="image">
+        
+          
+          
+            
+<img src="https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839376-BX3V9E7L777J6A1CTWTR/Stocksy_comp_2217189+%281%29.jpg" data-image="https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839376-BX3V9E7L777J6A1CTWTR/Stocksy_comp_2217189+%281%29.jpg" data-image-dimensions="1500x2250" data-image-focal-point="0.5,0.5" alt="alt=&quot; &quot;" data-load="false" src="https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839376-BX3V9E7L777J6A1CTWTR/Stocksy_comp_2217189+%281%29.jpg" width="1500" height="2250" alt="" sizes="(max-width:576px)50vw,(max-width:768px)33.333333333333336vw,(max-width:992px)20vw,16.666666666666668vw" style="display:block;object-position:50% 50%;object-fit:cover;width:100%;height:100%" srcset="https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839376-BX3V9E7L777J6A1CTWTR/Stocksy_comp_2217189+%281%29.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839376-BX3V9E7L777J6A1CTWTR/Stocksy_comp_2217189+%281%29.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839376-BX3V9E7L777J6A1CTWTR/Stocksy_comp_2217189+%281%29.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839376-BX3V9E7L777J6A1CTWTR/Stocksy_comp_2217189+%281%29.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839376-BX3V9E7L777J6A1CTWTR/Stocksy_comp_2217189+%281%29.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839376-BX3V9E7L777J6A1CTWTR/Stocksy_comp_2217189+%281%29.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839376-BX3V9E7L777J6A1CTWTR/Stocksy_comp_2217189+%281%29.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+          
+          
+        
+      </div>
+      
+    </figure>
+    
+    <figure class="gallery-grid-item">
+      <div class="gallery-grid-item-wrapper" data-animation-role="image">
+        
+          
+          
+            
+<img src="https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839338-MC8PZG6HTSKUSBVSWKZI/2888491.jpg" data-image="https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839338-MC8PZG6HTSKUSBVSWKZI/2888491.jpg" data-image-dimensions="750x1125" data-image-focal-point="0.5,0.5" alt="alt=&quot; &quot;" data-load="false" src="https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839338-MC8PZG6HTSKUSBVSWKZI/2888491.jpg" width="750" height="1125" alt="" sizes="(max-width:576px)50vw,(max-width:768px)33.333333333333336vw,(max-width:992px)20vw,16.666666666666668vw" style="display:block;object-position:50% 50%;object-fit:cover;width:100%;height:100%" srcset="https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839338-MC8PZG6HTSKUSBVSWKZI/2888491.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839338-MC8PZG6HTSKUSBVSWKZI/2888491.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839338-MC8PZG6HTSKUSBVSWKZI/2888491.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839338-MC8PZG6HTSKUSBVSWKZI/2888491.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839338-MC8PZG6HTSKUSBVSWKZI/2888491.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839338-MC8PZG6HTSKUSBVSWKZI/2888491.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/624b3c6e48a38b1e837e59fb/1649097839338-MC8PZG6HTSKUSBVSWKZI/2888491.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+          
+          
+        
+      </div>
+      
+    </figure>
+    
+  </div>
+  
+</div>
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+</div>
+
+        </div>
+      
+      
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>home</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+  </channel>
+</rss>
+
